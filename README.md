@@ -20,7 +20,7 @@
 
 - La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-# Actividades a desarrollar.
+## Actividades a desarrollar.
 
 1. [Toma de requerimientos.](./Toma%20de%20requerimientos/README.md)
 2. [Crea tu buyer persona.](./Crea%20tu%20buyer%20persona/README.md)
