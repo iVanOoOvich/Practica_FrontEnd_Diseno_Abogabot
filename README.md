@@ -22,7 +22,7 @@
 
 # Actividades a desarrollar.
 
-1. [Toma de requerimientos.](./Toma de requerimientos/README.md)
+1. [Toma de requerimientos.](./Toma%20de%20requerimientos/README.md)
 2. Crea tu buyer persona.
 3. Público objetivo.
 4. Crea tu primer Wireframe UX.
