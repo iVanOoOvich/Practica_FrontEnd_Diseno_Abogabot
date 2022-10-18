@@ -24,4 +24,5 @@ Me gustaría que la pagina contenga alguna combinación de colores azul marino y
     - La preferencia de colores del cliente es azul marino y blanco ya que son los colores que contiene su logo pero puede aceptar combinaciones.  
 ## ANALISIS DE REQUISITOS Y REQUERIMIENTOS 
 A continuación, se presenta el diagrama que ejemplifica la solución del requerimiento establecido.  
+![Miro Image](./Abogabot.jpg)
 [Volver &ldca;](/README.md "Regresar a página principal")
