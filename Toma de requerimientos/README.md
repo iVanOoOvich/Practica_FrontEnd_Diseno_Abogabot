@@ -1,11 +1,11 @@
 # Toma de requerimientos
 ---
 ## DESCRIPCION GENERAL DEL REQUERIMIENTO
-- Nombre Requerimiento: Abogabot
-- Fecha Solicitud: 28/09/2022
-- Responsable(s) Solicitud: @ivantrix
-- Dependencia(s) Solicitante: Lauch X: Misión FrontEnd
-- Responsable Funcional designado por el equipo de desarrollo de software: Mission Comander
+- Nombre Requerimiento: **Abogabot**
+- Fecha Solicitud: **28/09/2022**
+- Responsable(s) Solicitud: **@ivantrix**
+- Dependencia(s) Solicitante: **Lauch X: Misión FrontEnd**
+- Responsable Funcional designado por el equipo de desarrollo de software: **Mission Comander**
 ## FASE DE FORMALIZACIÓN
 ### Descripción de la Solicitud
 - **Usuario Solicitante**  
