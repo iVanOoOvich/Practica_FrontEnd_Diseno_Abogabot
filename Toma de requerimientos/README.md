@@ -22,5 +22,6 @@ Me gustaría que la pagina contenga alguna combinación de colores azul marino y
     - El sistema debe enviar una notificación por correo electrónico al cliente indicando una nueva actualización o requerimiento.  
     - El cliente puede ver el estatus y avance desde su cuenta en la pagina web y agregar comentarios para el abogado. Tendrá la posibilidad de acceso desde una computadora o un dispositivo móvil.  
     - La preferencia de colores del cliente es azul marino y blanco ya que son los colores que contiene su logo pero puede aceptar combinaciones.  
-
+## ANALISIS DE REQUISITOS Y REQUERIMIENTOS 
+A continuación, se presenta el diagrama que ejemplifica la solución del requerimiento establecido.  
 [Volver &ldca;](/README.md "Regresar a página principal")
